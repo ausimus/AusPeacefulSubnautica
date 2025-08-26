@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36324.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AusPeacefulSubnautica", "AusPeacefulSubnautica\AusPeacefulSubnautica.csproj", "{BE062C94-9673-400D-84ED-E55D7DF3656A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE062C94-9673-400D-84ED-E55D7DF3656A}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{BE062C94-9673-400D-84ED-E55D7DF3656A}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{BE062C94-9673-400D-84ED-E55D7DF3656A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE062C94-9673-400D-84ED-E55D7DF3656A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC5C30AF-72DF-469E-B953-F9201BB116AE}
+	EndGlobalSection
+EndGlobal
